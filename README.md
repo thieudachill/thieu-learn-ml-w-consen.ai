@@ -1,1 +1,3 @@
-# thieu-learn-ml-w-consen.ai
+# Hello guys
+
+This is the place where I put homeworks
