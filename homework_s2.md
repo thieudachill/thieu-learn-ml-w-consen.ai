@@ -10,5 +10,5 @@ original input X from the output Y ? Why or why not?
 1 of the matrix must be a 1d. We can not reverse it.
 
 ## Problem 2
-
+M1(M(x)) khác M(M1(x)) ; the single point will destroy the whole transformation
 
